@@ -1,0 +1,1 @@
+@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.product-card-spinner{animation:spin 1s linear infinite}
